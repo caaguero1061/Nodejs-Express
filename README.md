@@ -21,6 +21,7 @@ This project demonstrates a **3-Tier Architecture** using:
 - RESTful JSON API
 - Seed data for demo purposes
 - Initial setup
+- Authentication
 
 ---
 
