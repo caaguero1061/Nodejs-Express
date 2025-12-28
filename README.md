@@ -20,6 +20,7 @@ This project demonstrates a **3-Tier Architecture** using:
 - Protected routes for authenticated users
 - RESTful JSON API
 - Seed data for demo purposes
+- Initial setup
 
 ---
 
