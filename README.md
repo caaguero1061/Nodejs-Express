@@ -22,6 +22,7 @@ This project demonstrates a **3-Tier Architecture** using:
 - Seed data for demo purposes
 - Initial setup
 - Authentication
+- Database Layer
 
 ---
 
